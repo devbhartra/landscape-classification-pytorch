@@ -1,4 +1,4 @@
-# landscape-classification
+# landscape-classification-pytorch
 Classification 6 categories of landscape images, taken from Intel's dataset, from a competition hosted on Analytics Vidhya. Written in Python with PyTorch.
 
 Architectures applied: Custom CNNs, Residual Networks
